@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabnethub&label=Profile%20views&color=0e75b6&style=flat" alt="tabnethub" /> </p>
 
-- 🌱 I’m currently learning **# NuGet # ALM & Versiebeheer # ASP.NET Web Forms # Objectgerichte Systeem Analyse # Design patterns # ASP.NET MVC # ASP.NET Web API /core # Entity Framework/ Core and Dapper # Eindproject SQL Server RDBMS # #**
+- 🌱 I’m currently learning **# NuGet # ALM & Versiebeheer # ASP.NET Web Forms # Objectgerichte Systeem Analyse # Design patterns # ASP.NET MVC # ASP.NET Web API /core # Entity Framework/ Core and Dapper # Eindproject # SQL Server RDBMS # #**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TabNetHub](https://github.com/TabNetHub)
 
