@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **minibayev@hotmail.com**
 
-- 📄 Know about my experiences [https://minibayev.tilda.ws/page32526826.html](https://minibayev.tilda.ws/page32526826.html)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rufat-m-985718211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rufat-m-985718211" height="30" width="40" /></a>
