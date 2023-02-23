@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/TabNetHub](https://github.com/TabNetHub)
 
-- 📫 How to reach me **minibayev@hotmail.com**
+- 📫 How to reach me **tabnethub@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
